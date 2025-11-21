@@ -10,7 +10,7 @@ This repository houses:
   
   
   
-EMUTestDataset which is used to test how well a model generalizes to unseen data has two classes: Fire and NoFire.
+Custom EMUDataset which is used to test how well a model generalizes to unseen data has two classes: Fire and NoFire.
 There are 1,830 images under the Fire and 1,776 under the NoFire classes. 
 
 "train2" dataset which is used for training both models also has two classes and contains 10,800 Fire and 11,144 NoFire 
