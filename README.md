@@ -26,3 +26,4 @@ https://drive.google.com/file/d/1yfFCmIv0dU0XA9zQKaTj1zf3_kjuks0I/view?usp=drive
 
 You may download train2 dataset from the link below:
 
+https://drive.google.com/file/d/1D_RBoitqz4yJOOkZ_1eB25bSKNVY8yyi/view?usp=drive_link
