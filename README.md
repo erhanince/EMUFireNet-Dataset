@@ -22,7 +22,7 @@ You may download EMU's custom test dataset from the link below:
 
 https://drive.google.com/file/d/1yfFCmIv0dU0XA9zQKaTj1zf3_kjuks0I/view?usp=drive_link
 
-# Aggregate "train2" dataset for model training
+# Aggregate "train2" dataset for training of custom model(s) 
 
 You may download train2 dataset from the link below:
 
